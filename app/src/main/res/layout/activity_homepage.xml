@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    tools:context=".Homepage">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Activity Types"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="25dp"/>
+
+    <Button
+        android:id="@+id/myButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="Soft Skills"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/myButton1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:text="Language and Communication Skills"
+        android:textSize="20dp"
+        tools:ignore="DuplicateIds" />
+
+    <Button
+        android:id="@+id/myButton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="340dp"
+        android:text="Yoga Physical Fitness and Health Skills"
+        android:textSize="20dp"
+        tools:ignore="DuplicateIds" />
+
+    <Button
+        android:id="@+id/myButton3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="420dp"
+        android:text="ICT/Computing Skills"
+        android:textSize="20dp"
+        tools:ignore="DuplicateIds" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/download"
+        android:text="Download Activity Planner"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginTop="550dp"/>
+
+
+</RelativeLayout>

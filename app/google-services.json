@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643174794333",
+    "project_id": "tech-archive-f30ab",
+    "storage_bucket": "tech-archive-f30ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643174794333:android:7ed2fe8bd9382dd8f1f9b4",
+        "android_client_info": {
+          "package_name": "com.example.techarchive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrYbGrbH2lczIbpYKxcdQHUIEB5f_KHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
